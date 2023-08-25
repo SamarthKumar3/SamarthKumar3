@@ -16,7 +16,7 @@
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1JzEMXMC7HCA4oG-_PZOZ7QjYXOhpzGP5?usp=sharing](https://drive.google.com/drive/folders/1JzEMXMC7HCA4oG-_PZOZ7QjYXOhpzGP5?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"><a href="https://www.linkedin.com/in/samarth-kumar-bhardwaj-833795233/">LinkedIn</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
