@@ -1,11 +1,11 @@
 <h1 align="center">Hi😃, I'm Samarth Kumar Bhardwaj</h1>
 <h3 align="center">I'm a versatile Full stack developer</h3>
 
-- 🔭 I’m currently working on **Movie searching app**
+- 🔭 I’m currently working on **Weather App using Next.js**
 
-- 🌱 I’m currently learning **TypeScript, Next.js, Redux, GraphQL**
+- 🌱 I’m currently learning **TypeScript, Redux, GraphQL**
 
-- 👯 I’m looking to collaborate on **Frontend or Backend projects**
+- 👯 I’m looking to collaborate on **Fullstack projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SamarthKumar3](https://github.com/SamarthKumar3)
 
