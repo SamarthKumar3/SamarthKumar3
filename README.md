@@ -1,7 +1,7 @@
 <h1 align="center">Hi😃, I'm Samarth Kumar Bhardwaj</h1>
 <h3 align="center">I'm a versatile Full stack developer</h3>
 
-- 🔭 I’m currently working on **Weather App using Next.js**
+- 🔭 I’m currently working on **E-commerce website using Next.js**
 
 - 🌱 I’m currently learning **TypeScript, Redux, GraphQL**
 
