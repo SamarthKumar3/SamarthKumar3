@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **E-commerce website using Next.js**
 
-- 🌱 I’m currently learning **TypeScript, Redux, GraphQL**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👯 I’m looking to collaborate on **Fullstack projects**
 
