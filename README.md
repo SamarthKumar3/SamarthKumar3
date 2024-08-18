@@ -7,13 +7,13 @@
 
 - 👯 I’m looking to collaborate on **Fullstack projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SamarthKumar3](https://github.com/SamarthKumar3)
+- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/SamarthKumar3?tab=repositories)
 
 - 💬 Ask me about **Frontend development, Database connecting**
 
 - 📫 How to reach me **samarth.web3@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1JzEMXMC7HCA4oG-_PZOZ7QjYXOhpzGP5?usp=sharing](My Resume)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1AGQC8eE8CMeSE-jdiWRcy-pDlJ7Gq2Wi/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://www.linkedin.com/in/samarth-kumar-bhardwaj-833795233/">LinkedIn</a>
