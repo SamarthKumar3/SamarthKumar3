@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **samarth.web3@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1AGQC8eE8CMeSE-jdiWRcy-pDlJ7Gq2Wi/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1UkAWM7bQ2ox_BWL60QA5mjlVwYnOVaui/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://www.linkedin.com/in/samarth-kumar-bhardwaj-833795233/">LinkedIn</a>
