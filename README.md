@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/SamarthKumar3?tab=repositories)
 
-- 💬 Ask me about **Frontend development, Database connecting**
+- 💬 Ask me about **AI Engineering, Full Stack Development**
 
 - 📫 How to reach me **samarth.web3@gmail.com**
 
