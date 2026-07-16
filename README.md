@@ -1,11 +1,11 @@
 <h1 align="center">Hi😃, I'm Samarth Kumar Bhardwaj</h1>
-<h3 align="center">I'm a versatile Full stack developer</h3>
+<h3 align="center">I'm a versatile Full stack AI Engineer</h3>
 
-- 🔭 I’m currently working on **E-commerce website using Next.js**
+- 🔭 I’m currently working on **Image Creation using AI**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **python and AI**
 
-- 👯 I’m looking to collaborate on **Fullstack projects**
+- 👯 I’m looking to collaborate on **Fullstack AI projects**
 
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/SamarthKumar3?tab=repositories)
 
